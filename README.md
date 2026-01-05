@@ -28,3 +28,10 @@ I am a **B.Tech CSE** student at **Manipal Institute of Technology** (Class of 2
 ![](https://github-readme-stats.vercel.app/api?username=sovopr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sovopr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sovopr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sovopr/sovopr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sovopr/sovopr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sovopr/sovopr/output/github-contribution-grid-snake.svg">
+</picture>
